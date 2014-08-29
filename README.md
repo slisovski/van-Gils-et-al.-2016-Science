@@ -1,4 +1,6 @@
-# vanGils et al. XXX Appendix (Environmental Data Manipulation)
+# Appendix: vanGils et al. XXX
+
+##  Environmental Data Manipulation
 
 ### Temperature Data
 
