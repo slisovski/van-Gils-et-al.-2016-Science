@@ -1,4 +1,4 @@
-## R code of environmental data (temperature, ndvi, snow) manipulation as described in vanGils et al. XXX
+# vanGils et al. XXX Appendix (Environmental Data Manipulation)
 
 ### Temperature Data
 
