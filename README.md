@@ -1,5 +1,7 @@
 # Appendix: van Gils et al. 2016 Science
 
+Original publication: http://science.sciencemag.org/content/352/6287/819
+
 ##  Environmental Data Manipulation
 
 ### Temperature Data
